@@ -15,9 +15,9 @@ sudo zypper install -y \
     git \
     python \
     python-devel \
-    python-pip \
+    python2-pip \
     python2-setuptools \
-    python-virtualenv \
+    python2-virtualenv \
     python-gobject2-devel \
     python-virtualenvwrapper \
     libtool \
@@ -32,7 +32,7 @@ sudo zypper install -y \
     mpg123 \
     screen \
     curl \
-    python-pkgconfig \
+    python2-pkgconfig \
     libicu-devel \
     automake
 
